@@ -58,7 +58,7 @@ public class IMC {
             JOptionPane.showMessageDialog(null, "Classificação: Obesidade (Grau II)");
         }
         
-        if(imc>=40){
+        if(imc>40){
     
             JOptionPane.showMessageDialog(null, "Classificação: Obesidade (Grau III)");
         }
